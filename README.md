@@ -1,7 +1,4 @@
 [![Factorio mod portal page](https://img.shields.io/badge/dynamic/json?color=orange&label=Factorio&query=downloads_count&suffix=%20downloads&url=https%3A%2F%2Fmods.factorio.com%2Fapi%2Fmods%2Fcubium-planet-discovery-patch&style=for-the-badge)](https://mods.factorio.com/mod/cubium-planet-discovery-patch)
-[![Crowdin translate](https://img.shields.io/badge/Crowdin-Translate-cornflowerblue?style=for-the-badge)](https://crowdin.com/project/factorio-mods-localization)
-[![GitHub build status: CI](https://img.shields.io/github/actions/workflow/status/QuingKhaos/cubium-planet-discovery-patch/ci.yml?branch=main&label=CI&style=for-the-badge)](https://github.com/QuingKhaos/cubium-planet-discovery-patch/actions?query=workflow%3ACI)
-[![GitHub build status: Quality Assurance](https://img.shields.io/github/actions/workflow/status/QuingKhaos/cubium-planet-discovery-patch/qa.yml?branch=main&label=QA&style=for-the-badge)](https://github.com/QuingKhaos/cubium-planet-discovery-patch/actions?query=workflow%3A%22Quality+Assurance%22)
 [![GitHub issues: bugs](https://img.shields.io/github/issues/QuingKhaos/cubium-planet-discovery-patch/bug?label=Bug%20Reports&style=for-the-badge)](https://github.com/QuingKhaos/cubium-planet-discovery-patch/issues?q=is%3Aissue%20state%3Aopen%20label%3Abug)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/QuingKhaos/cubium-planet-discovery-patch?label=Pull%20Requests&style=for-the-badge)](https://github.com/QuingKhaos/cubium-planet-discovery-patch/pulls)
 
@@ -11,6 +8,8 @@ Adds the space locations on the route from Nauvis to Cubium as prerequisites to 
 
 By default Cubium is reachable via Vulcanus and Gleba. You only need to research one of the two planet discovery
 technologies to reach Cubium. The other one will then be disabled and hidden from the technology tree.
+
+Supports the moved location of Cubium by [Asteroid Belt](https://mods.factorio.com/mod/AsteroidBelt).
 
 ## All my Cubium mods
 

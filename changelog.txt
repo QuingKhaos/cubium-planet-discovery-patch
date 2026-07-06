@@ -3,3 +3,4 @@ Version: 1.0.0
 Date: 2026-07-06
   Features:
     - Add the space locations on the route from Nauvis to Cubium as prerequisites to Cubium's planet discovery.
+    - Support moved Cubium location by Asteroid Belt.

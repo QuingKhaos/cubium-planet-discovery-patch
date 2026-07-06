@@ -14,6 +14,7 @@
     "technology_or >= 1.1.4",
 
     "cubium >= 1.0.28",
+    "? AsteroidBelt >= 1.2.10",
     "! any-planet-start"
   ],
   "space_travel_required": true
