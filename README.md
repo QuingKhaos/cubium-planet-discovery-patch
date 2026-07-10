@@ -28,7 +28,7 @@ Supports the moved location of Cubium by [Asteroid Belt](https://mods.factorio.c
   on the route from Nauvis to Cubium as prerequisites to Cubium's planet discovery.
 - [Cubium Planetary Cubic Science Packs](https://mods.factorio.com/mod/cubium-planetary-cubic-science-packs) - All
   planetary cubic science pack recipes require inverted microcubes instead of energized microcubes now. Except Lignumis.
-- [Cubic Space Science Pack](https://mods.factorio.com/mod/cubium-space-science-pack) - Adds a cubic space science pack
-  to Cubium.
 - [Cubium Science Pack Reorder](https://mods.factorio.com/mod/cubium-science-pack-reorder) - Reorders the Cubium science
   packs in the same order as in the base game.
+- [Cubic Space Science Pack](https://mods.factorio.com/mod/cubium-space-science-pack) - Adds a cubic space science pack
+  to Cubium.
